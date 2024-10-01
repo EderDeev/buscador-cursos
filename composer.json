@@ -1,14 +1,16 @@
 {
   "name": "ederdev1/buscador-cursos-alura",
-  "description": "description",
-  "minimum-stability": "stable",
-  "license": "proprietary",
+  "description": "teste",
   "authors": [
     {
-      "name": "Eder",
+      "name": "EderDev1",
       "email": "eder.dev1@gmail.com"
     }
   ],
   "require": {
+    "guzzlehttp/guzzle": "^7.9",
+    "symfony/dom-crawler": "^7.1.5",
+    "phpfastcache/phpfastcache": "^9.2",
+    "symfony/css-selector": "^7.1"
   }
 }
