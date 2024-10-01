@@ -13,4 +13,5 @@
     "phpfastcache/phpfastcache": "^9.2",
     "symfony/css-selector": "^7.1"
   }
+
 }
